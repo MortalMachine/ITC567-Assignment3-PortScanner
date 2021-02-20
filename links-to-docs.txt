@@ -1,0 +1,20 @@
+.NET install instructions I followed for Ubuntu 18.04:
+https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#1804-
+______________________________________________________________________________________________________________________________________
+
+This software may collect information about you and your use of the software, and send that to Microsoft.
+Please visit http://aka.ms/dotnet-cli-eula for more information.
+Welcome to .NET!
+---------------------
+Learn more about .NET: https://aka.ms/dotnet-docs
+Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli-docs
+
+Telemetry
+---------
+The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+
+Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
+
+______________________________________________________________________________________________________________________________________
+
+
