@@ -23,3 +23,5 @@ mono program.exe
 
 Windows:
 Compile in a Ubuntu machine first, then copy the program.exe file to Windows.
+
+<img src="./images/image1.png">
